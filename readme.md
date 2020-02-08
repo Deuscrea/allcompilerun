@@ -8,6 +8,11 @@ prepare
 
 from site bitcoin-tool
 
+git clone github//////bitcoin-tool
+
+cd
+
+after ... below make test or look in bitcoin-tool
 
     A C compiler
     OpenSSL headers and libraries (with elliptic curve support)
